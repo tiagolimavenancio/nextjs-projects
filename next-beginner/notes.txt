@@ -1,0 +1,21 @@
+SSR = Renderização no Servidor
+CSR = Renderização no Cliente
+
+Quando não usar?
+- Quando estiver fazendo um sistema interno (sem SEO).
+
+Quando usar?
+- Quando estiver fazendo um blog, por exemplo.
+
+Themoview.org
+tmdb
+
+Projeto da Aula
+- Home: Listagem de Filmes
+- Search: Buscar Filmes
+- Details: Tela individual com mais informações sobre o Filme
+- About: Sobre o Sistema
+
+
+
+
