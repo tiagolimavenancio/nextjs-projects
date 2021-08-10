@@ -17,5 +17,8 @@ Projeto da Aula
 - About: Sobre o Sistema
 
 
-
-
+Os Métodos
+- STATIC GENERATION: executa apenas 1x no build;
+- STATIC SITE GENERATION: ?
+- SERVER SIDE RENDERING: executa a cada requisição no lado do servidor;
+- CLIENT SIDE RENDERING executa  a cada requisição no lado do cliente.
